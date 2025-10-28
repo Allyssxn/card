@@ -14,11 +14,11 @@ import {
 } from '@phosphor-icons/react/dist/ssr';
 
 import type {Config} from '@/types';
-import image from '@/card-image.jpg';
+import image from '@/logo.jpg';
 
 export const config: Config = {
     // Set your or company name
-    title: 'Patrick Bateman',
+    title: 'Allyssxn',
     // Add a brief description to display below name
     bio: 'Specialist in mergers and acquisitions',
     // Select a background style
