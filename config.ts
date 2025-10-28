@@ -110,7 +110,7 @@ export const config: Config = {
         lastName: 'Bateman',
         organization: 'Pierce & Pierce',
         title: 'Vice President',
-        birthday: 'new Date(1961, 9, 23)',
+        birthday: new Date(1961, 9, 23),
         workPhone: '+1 212 555 6342',
         email: 'patrick@psycho.us',
   //      Enable to display contact as a company
