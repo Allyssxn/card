@@ -3,8 +3,8 @@ import {Fragment, Suspense} from 'react';
 
 import {Header} from '@/src/components/Header';
 import {LinksList} from '@/src/components/LinksList';
-import {config} from '@/config';
-import {Background, Container} from '@/src/components/Background';
+import {config} from '@/config.ts';
+import {Background, Container} from '@/src/components/Background.tsx';
 
 export default function IndexPage() {
     return (
