@@ -20,7 +20,7 @@ export const config: Config = {
     // Set your or company name
     title: 'Allyssxn',
     // Add a brief description to display below name
-    bio: 'Specialist in mergers and acquisitions',
+    bio: 'Tu streamer que desaparece por meses (de confianza 😉)',
     // Select a background style
     background: 'gradient',
     cardImage: image,
