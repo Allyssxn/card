@@ -114,6 +114,6 @@ export const config: Config = {
     //    workPhone: '+1 212 555 6342',
    //     email: 'patrick@psycho.us',
         // Enable to display contact as a company
-        // isOrganization: true,
-//    },
+         isOrganization: false,
+    },
 };
