@@ -116,4 +116,4 @@ export const config: Config = {
         // Enable to display contact as a company
         // isOrganization: true,
 //    },
-// };
+};
